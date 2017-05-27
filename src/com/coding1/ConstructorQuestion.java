@@ -12,7 +12,7 @@ public class ConstructorQuestion {
 	
 //	public ConstructorQuestion(String s){
 //		System.out.println("string");
-	//adding comment
+	//adding comment2
 //	}
 	
 	public static void main(String[] args) {
